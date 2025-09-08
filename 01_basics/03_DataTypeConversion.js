@@ -35,5 +35,5 @@ let s3 = s1 + s2
 // console.log(s3);
 
 console.log(true + true); // gives 1 + 1 = 2
-
+ 
 

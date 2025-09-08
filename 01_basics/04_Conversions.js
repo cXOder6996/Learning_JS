@@ -17,4 +17,18 @@ let myObj = function(){
 console.log(typeof myObj); //gives function
 console.log(typeof null); //gives object
 
+//****************************************** */
+// Memories : Stack(primitive) & Heaps(non - primitive) 
 
+let myYT = "ProYT"
+let anotherName = myYT
+anotherName = "KxoG"
+console.log(myYT);   
+console.log(anotherName);
+
+let user = {
+    email : "user@gmail.com"
+    upi : "user@tpsbi"
+}
+
+let user2 = user
