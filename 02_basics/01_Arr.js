@@ -2,7 +2,6 @@
 
 const myArr = [0, 1, 2, 3, 4]
 const arr1 = ["KRISH", "HARSH", "KRISHNA", "GAURANG"]
-
 const arr = new Array(1,3,5,7)//creates [arr]
 
 // console.log(myArr[1]);
